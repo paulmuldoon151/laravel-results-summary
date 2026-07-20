@@ -10,8 +10,9 @@ composer require paulmuldoon/laravel-results-summary
 ## Usage
 
 ```html
-<x-results-summary :items="$users" />
+<x-results-summary class="text-gray-800 text-sm mb-3 font-bold" :items="$cars" empty="No cars found." :paginated="true" label="car" />
 ```
+
 ### Props
 - :items - takes a collection of items to summarise, example "$cars".
 - empty - the message displayed if the collection is empty, example "No cars found". Default is "No items found."
