@@ -6,3 +6,9 @@ A Blade component for displaying pagination result summaries.
 
 ```bash
 composer require paulmuldoon/laravel-results-summary
+```
+## Usage
+
+```html
+<x-results-summary :items="$users" />
+```
