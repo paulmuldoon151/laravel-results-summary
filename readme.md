@@ -1,6 +1,6 @@
 # Laravel Results Summary
 
-A Blade component for displaying pagination result summaries.
+A Blade component for displaying a summary of items in a collection.
 
 ## Installation
 
