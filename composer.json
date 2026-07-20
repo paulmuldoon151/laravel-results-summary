@@ -1,0 +1,24 @@
+{
+    "name": "paulmuldoon/laravel-results-summary",
+    "description": "A Blade component for displaying results summaries.",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": "^8.2",
+        "illuminate/support": "^11.0 || ^12.0",
+        "illuminate/view": "^11.0 || ^12.0",
+        "illuminate/pagination": "^11.0 || ^12.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "PaulMuldoon\\ResultsSummary\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "PaulMuldoon\\ResultsSummary\\ResultsSummaryServiceProvider"
+            ]
+        }
+    }
+}
