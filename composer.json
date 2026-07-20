@@ -1,6 +1,6 @@
 {
     "name": "paulmuldoon/laravel-results-summary",
-    "description": "A Blade component for displaying results summaries.",
+    "description": "A Blade component for displaying a summary of items in a collection",
     "type": "library",
     "license": "MIT",
     "require": {
