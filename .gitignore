@@ -3,3 +3,4 @@
 /.vscode/
 composer.phar
 .env
+composer.lock
