@@ -6,7 +6,7 @@ A Blade component for displaying a summary of items in a collection.
 
 | Package Version | Laravel Version | PHP Version |
 | :--- | :--- | :--- |
-| **^1.0.1** | 10.x, 11.x, 12.x, 13.x | ^8.2 |
+| **^1.0.0** | 10.x, 11.x, 12.x, 13.x | ^8.2 |
 
 ## Installation
 
